@@ -6,7 +6,8 @@ Senior DevSecOps Architect with over 25 years of experience leading teams and de
 
 📍 Based in Leicester, UK  
 💼 Currently: Cloud Platform Architect at 7IM  
-🎯 Focus: Azure Landing Zones, CAF, Terraform, Databricks & DevSecOps
+🎯 Focus: Azure Landing Zones, CAF, Terraform, Databricks & DevSecOps  
+📄 [View Full CV](Jay%20Freeman.md)
 
 ## 🎯 Core Expertise
 
