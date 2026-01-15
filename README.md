@@ -5,7 +5,7 @@
 Senior DevSecOps Architect with over 25 years of experience leading teams and delivering complex, secure cloud modernisation solutions. Specialising in Azure infrastructure, automation, and data platforms.
 
 📍 Based in Leicester, UK  
-💼 Currently: Senior Cloud Consultant at Cloud Direct / Drop Table  
+💼 Currently: Senior Cloud Consultant at [Cloud Direct](https://www.clouddirect.net/) / [Drop Table](https://www.droptable.io/)  
 🎯 Focus: Azure Landing Zones, Azure Verified Modules (AVM), Terraform, Bicep & IaC  
 📄 [View Full CV](Jay%20Freeman.md)
 
@@ -41,7 +41,7 @@ Senior DevSecOps Architect with over 25 years of experience leading teams and de
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 💼 Current Focus
+##  Current Focus
 
 - 🏗️ Designing enterprise-scale **Azure Landing Zones**
 - 📋 Developing **Cloud Adoption Framework** naming conventions & standards

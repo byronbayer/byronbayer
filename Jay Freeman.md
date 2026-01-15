@@ -60,7 +60,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ## 💼 Career History
 
-### Cloud Direct / Drop Table | Senior Cloud Consultant
+### [Cloud Direct](https://www.clouddirect.net/) | [Drop Table](https://www.droptable.io/) | Senior Cloud Consultant
 **Dates:** December 2025 – Present
 
 **Main Disciplines:** Architect, Azure, Azure Verified Modules (AVM), Terraform, Bicep, Landing Zones, IaC, DevOps, Governance
@@ -73,7 +73,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Medical Protection Society | Cloud Platform Architect
+### [Medical Protection Society](https://www.medicalprotection.org/) | Cloud Platform Architect
 
 **Dates:** June 2024 – December 2025
 
@@ -88,7 +88,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### 7IM | Cloud Platform Architect
+### [7IM](https://www.7im.co.uk/) | Cloud Platform Architect
 **Dates:** September 2024 – June 2025
 
 **Main Disciplines:** DevSecOps, Architect, Azure, Terraform, ARM Templates, PowerShell, Azure DevOps, Databricks, Delta Lake, SQL Server, CosmosDB
@@ -102,7 +102,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Premfina | DevSecOps Architect
+### [Premfina](https://www.premfina.com/) | DevSecOps Architect
 **Dates:** March 2023 – August 2024
 
 **Main Disciplines:** DevSecOps, Architect, Azure, Terraform, Bicep, PowerShell, Azure DevOps, Databricks, Delta Lake, SQL Server, Service Bus, CosmosDB
@@ -116,7 +116,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Toyota UK | DevOps Architect
+### [Toyota UK](https://www.toyota.co.uk/) | DevOps Architect
 **Dates:** April 2021 – February 2023
 
 **Main Disciplines:** DevOps, Architect, Azure, Blueprints, Bicep, ARM, PowerShell, Azure DevOps, Databricks, Data Factory, SQL Server, CosmosDB
@@ -128,14 +128,14 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Packt Publishing | Technical Reviewer
+### [Packt Publishing](https://www.packtpub.com/) | Technical Reviewer
 **Dates:** September 2021 – September 2022
 
 - Technical reviewer for 'Hands-on Azure for Developers - Second Edition', ensuring accuracy of chapters and walkthroughs.
 
 ---
 
-### Department for Education (DFE) | DevOps Architect
+### [Department for Education](https://www.gov.uk/government/organisations/department-for-education) (DFE) | DevOps Architect
 **Dates:** March 2020 – April 2021
 
 **Main Disciplines:** DevOps, Architect, Azure, Blueprints, ARM, PowerShell, Azure DevOps, C#, Node, TypeScript, YAML pipelines, PowerBI, Grafana
@@ -145,7 +145,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### PurpleBricks | DevOps Architect
+### [PurpleBricks](https://www.purplebricks.co.uk/) | DevOps Architect
 **Dates:** November 2019 – March 2020
 
 **Main Disciplines:** DevOps, Architect, Azure, Blueprints, ARM, PowerShell, Azure DevOps, Databricks, ADF, Grafana
@@ -155,7 +155,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Fujitsu | DevOps Architect
+### [Fujitsu](https://www.fujitsu.com/) | DevOps Architect
 **Dates:** August 2019 – October 2019
 
 **Main Disciplines:** DevOps, Architect, Azure, ARM, PowerShell
@@ -164,7 +164,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Concentra Analytics | DevOps Lead & Architect
+### [Concentra Analytics](https://www.concentra.co.uk/) | DevOps Lead & Architect
 **Dates:** April 2019 – August 2019
 
 **Main Disciplines:** DevOps Lead, Architect, Azure, ARM Templates, PowerShell
@@ -174,7 +174,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### AlixPartners | Tech Lead & Architect
+### [AlixPartners](https://www.alixpartners.com/) | Tech Lead & Architect
 **Dates:** October 2018 – April 2019
 
 **Main Disciplines:** Tech Lead, Architect, Azure, ARM, PowerShell, Databricks, ADF
@@ -184,7 +184,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Elastacloud (Clients: ASOS, Sports Direct) | Tech Lead & Architect
+### [Elastacloud](https://www.elastacloud.com/) (Clients: [ASOS](https://www.asos.com/), [Sports Direct](https://www.sportsdirect.com/)) | Tech Lead & Architect
 **Dates:** January 2018 – October 2018
 
 **Main Disciplines:** Tech Lead, Architect, Azure, ARM, Parquet, Service Fabric, SQLDW, Spark, Databricks, Data Lake
@@ -194,7 +194,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Wesleyan | Tech Lead & Architect
+### [Wesleyan](https://www.wesleyan.co.uk/) | Tech Lead & Architect
 **Dates:** August 2017 – January 2018
 
 **Main Disciplines:** Tech Lead, Architect, Azure, ARM, Sitecore 9, PowerShell
@@ -203,7 +203,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Eclipse Group Solutions (Client: Rexel) | Scrum Master & Team Lead
+### [Eclipse Group Solutions](https://www.eclipsegroup.co.uk/) (Client: [Rexel](https://www.rexel.com/)) | Scrum Master & Team Lead
 **Dates:** June 2017 – December 2017
 
 **Main Disciplines:** Scrum Master, Team Lead, Architect, Azure, PowerShell, C#
@@ -212,7 +212,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### BAE Systems (Client: Skills Funding Agency) | Scrum Master & Architect
+### [BAE Systems](https://www.baesystems.com/) (Client: Skills Funding Agency) | Scrum Master & Architect
 **Dates:** June 2016 – February 2017
 
 **Main Disciplines:** Scrum Master, Team Lead, Architect, Azure, ARM, PowerShell, VSTS, Octopus, Sitefinity, C#
@@ -221,7 +221,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### 3T Europe | Scrum Master & Team Lead
+### [3T Europe](https://www.aptean.com/en-GB/solutions/tms/products/multi-carrier-tms) | Scrum Master & Team Lead
 **Dates:** December 2015 – June 2016
 
 **Main Disciplines:** Scrum Master, Team Lead, Architect, Azure, PowerShell, VSTS, C#
@@ -230,7 +230,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Next | Scrum Master & Team Lead
+### [Next](https://www.next.co.uk/) | Scrum Master & Team Lead
 **Dates:** June 2014 – December 2015
 
 **Main Disciplines:** Scrum Master, Team Lead, Architect, Azure, PowerShell, VSTS, Octopus Deploy, TeamCity, C#
@@ -239,7 +239,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### TNT | Lead Developer
+### [TNT](https://www.tnt.com/) | Lead Developer
 **Dates:** March 2014 – June 2014
 
 **Main Disciplines:** C#, WCF, MVC, SQL Server, PowerShell
@@ -248,7 +248,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Dollar Finance Ltd | Project Lead
+### [Dollar Finance Ltd]() | [The Money Shop](https://www.themoneyshop.com/) | Project Lead
 **Dates:** January 2014 – March 2014
 
 **Main Disciplines:** C#, WCF, MVC, TFS, Linq, Entity Framework, PowerShell
@@ -257,7 +257,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### James Hay Partnership | Developer
+### [James Hay Partnership](https://www.jameshay.co.uk/) | Developer
 **Dates:** July 2013 – January 2014
 
 **Main Disciplines:** C#, WCF, MVC, ASP.NET, TFS, TeamCity, SQL Server
@@ -266,7 +266,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Dollar Finance Ltd | Architect & Developer
+### [Dollar Finance Ltd]() | [The Money Shop](https://www.themoneyshop.com/)  | Architect & Developer
 **Dates:** February 2013 – June 2013
 
 **Main Disciplines:** C#, WCF, MVC, WPF, TFS, Linq, Entity Framework
@@ -275,7 +275,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-### Jumar Solutions Ltd | Architect & Developer
+### [Jumar Solutions Ltd](https://www.txp.co.uk/) | Architect & Developer
 **Dates:** February 2012 – February 2013
 
 **Main Disciplines:** C#, WCF, MVC, WPF, TFS, Linq, Entity Framework, SSRS, SSIS
@@ -288,18 +288,18 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 | Year | Company | Role & Highlights |
 |:-----|:--------|:------------------|
-| 2011–2012 | Jigsaw24 | Lead Developer & PM — Umbraco CMS redevelopment |
+| 2011–2012 | [Jigsaw24](https://www.jigsaw24.com/) | Lead Developer & PM — Umbraco CMS redevelopment |
 | 2011 | Kwikseal Ltd | Developer — CMS site (Umbraco, C#, WCF) |
-| 2011 | Schneider Electric | Developer — .NET 4.0 Web App for Manchester Airport |
-| 2010–2011 | Coventry University | Developer — Foreign student functionality; mentored devs |
-| 2010 | TNT | Developer — Barcode/handheld device features |
-| 2009–2010 | McLaren Automotive | Business Systems Analyst — MP4-12C manufacturing systems |
-| 2008–2009 | Royal Bank of Scotland | Developer — Rewrote apps, saving ~€200k/year |
-| 2006–2008 | Eclipse Group Solutions | Developer — TNT parcel management software |
+| 2011 | [Schneider Electric](https://www.se.com/) | Developer — .NET 4.0 Web App for Manchester Airport |
+| 2010–2011 | [Coventry University](https://www.coventry.ac.uk/) | Developer — Foreign student functionality; mentored devs |
+| 2010 | [TNT](https://www.tnt.com/) | Developer — Barcode/handheld device features |
+| 2009–2010 | [McLaren Automotive](https://www.mclaren.com/) | Business Systems Analyst — MP4-12C manufacturing systems |
+| 2008–2009 | [Royal Bank of Scotland](https://www.rbs.com/) | Developer — Rewrote apps, saving ~€200k/year |
+| 2006–2008 | [Eclipse Group Solutions](https://www.eclipsegrp.com/) | Developer — TNT parcel management software |
 | 2004–2006 | Halcyon Software | Developer — Internal sales system (Delphi, SQL Server) |
-| 2002–2004 | Royal Haskoning | Developer — 3D simulation & tidal prediction (C++, C#) |
-| 2001–2002 | Counter Solutions | Developer — Cashless card & EPOS systems |
-| 2000–2001 | Dr Martens | Developer — Manufacturing lifecycle software |
+| 2002–2004 | [Royal Haskoning](https://www.royalhaskoningdhv.com/) | Developer — 3D simulation & tidal prediction (C++, C#) |
+| 2001–2002 | [Counter Solutions](https://www.shift4.com/shift4-kiosk) | Developer — Cashless card & EPOS systems |
+| 2000–2001 | [Dr Martens](https://www.drmartens.com/) | Developer — Manufacturing lifecycle software |
 | 1998–2000 | Tame Systems | Developer — Training and admin software |
 
 ---
