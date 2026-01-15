@@ -5,8 +5,8 @@
 Senior DevSecOps Architect with over 25 years of experience leading teams and delivering complex, secure cloud modernisation solutions. Specialising in Azure infrastructure, automation, and data platforms.
 
 📍 Based in Leicester, UK  
-💼 Currently: Cloud Platform Architect at 7IM  
-🎯 Focus: Azure Landing Zones, CAF, Terraform, Databricks & DevSecOps  
+💼 Currently: Senior Cloud Consultant at Cloud Direct / Drop Table  
+🎯 Focus: Azure Landing Zones, Azure Verified Modules (AVM), Terraform, Bicep & IaC  
 📄 [View Full CV](Jay%20Freeman.md)
 
 ## 🎯 Core Expertise
