@@ -39,10 +39,16 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
    - Date ranges and role titles
    - Skills and technology lists
    - Certifications and career entries
+   - Company website URLs for any new career history companies
 6. Decide edit strategy:
    - If markdown has richer structure, prefer selective updates.
    - If markdown is stale across many sections, use strict synchronization.
-7. Apply minimal edits to Markdown (small patches, no broad reformatting).
+7. Apply minimal edits to Markdown (small patches, no broad reformatting), plus link normalization rules:
+   - Career history company names must be hyperlinked when a website is known or can be confidently identified.
+   - For new career entries, convert plain company names to links in the heading line.
+   - If multiple companies are present in one role heading, format each as a separate link joined by ` | ` (example: `[Cloud Direct](https://www.clouddirect.net/) | [Drop Table](https://www.droptable.io/)`).
+   - Render all hyperlinks in the output Markdown using HTML anchors so they open in a new tab: `<a href="URL" target="_blank" rel="noopener noreferrer">Label</a>`.
+   - If an existing Markdown link does not open in a new tab, convert it to the HTML anchor format above.
 8. Validate output:
    - Ensure changed facts now match DOCX.
    - Check Markdown readability and section integrity.
@@ -57,6 +63,7 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
   - preserve Markdown-only formatting and presentation enhancements unless strict mode is requested
 - Conflicts:
   - if DOCX has placeholders (for example, "LinkedIn" without URL), keep literal values and flag for user confirmation
+   - if a new company is found but no trustworthy website can be identified, keep the company name unlinked and flag it as an ambiguity
 - Large mismatch:
   - if more than 30% of sections differ, propose a full rebaseline pass
 
@@ -64,6 +71,8 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
 - No accidental deletion of major sections.
 - Dates, companies, and role names remain consistent and in chronological order.
 - Contact block reflects DOCX source.
+- All hyperlinks use HTML anchor format with `target="_blank"` and `rel="noopener noreferrer"`.
+- New career-history company names are linked when website URLs are known.
 - Table formatting and bullet structure still render correctly.
 - Only intended files are modified.
 
