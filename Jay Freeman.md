@@ -61,8 +61,30 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ## 💼 Career History
 
+### Allica Bank | DevSecOps Cloud Consultant
+**Dates:** May 2026 – Present
+
+- Helping out with DevSecOps work.
+
+---
+
+### Barnett Waddingham | DevSecOps Cloud Consultant
+**Dates:** May 2026 – Present
+
+- Cloud migration from on prem to Azure.
+
+---
+
+### Colx | DevSecOps Cloud Consultant
+**Dates:** May 2026 – Present
+
+- Cloud migration from on prem to Azure.
+- Setting up landing zones using Azure Verified Modules.
+
+---
+
 ### [Cloud Direct](https://www.clouddirect.net/) | [Drop Table](https://www.droptable.io/) | Senior Cloud Consultant
-**Dates:** December 2025 – Present
+**Dates:** December 2025 – March 2026
 
 **Main Disciplines:** Architect, Azure, Azure Verified Modules (AVM), Terraform, Bicep, Landing Zones, IaC, DevOps, Governance
 

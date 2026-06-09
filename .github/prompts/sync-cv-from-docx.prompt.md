@@ -14,16 +14,17 @@ Inputs:
 
 Execution rules:
 1. Validate that both files exist.
-2. Run the skill workflow exactly as written.
-3. In `selective` mode:
+2. Run `pwsh -File ./.github/skills/cv-docx-sync/scripts/extract-docx-text.ps1 -DocxPath "<docx path>"` and use its output for comparison.
+3. Run the skill workflow exactly as written.
+4. In `selective` mode:
    - Apply only factual deltas (contact info, dates, titles, skills, certifications, achievements).
    - Preserve richer Markdown layout and style.
-4. In `strict` mode:
+5. In `strict` mode:
    - Ask for explicit user confirmation before applying broad synchronization edits.
-5. If DOCX extraction leaves ambiguous values:
+6. If DOCX extraction leaves ambiguous values:
    - Keep current Markdown value unless DOCX is explicit.
    - List each ambiguity in the final summary.
-6. Token-saving rules:
+7. Token-saving rules:
    - Do not quote unchanged content.
    - Do not print raw extracted DOCX text unless the user asks.
    - Keep final response to a maximum of 8 bullets.

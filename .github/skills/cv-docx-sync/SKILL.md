@@ -30,8 +30,8 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
 ## Procedure
 1. Validate inputs and confirm both files exist.
 2. Extract DOCX text safely:
-   - Treat DOCX as a zip package.
-   - Read `word/document.xml` and convert to rough plain text for comparison.
+   - Run [extract-docx-text.ps1](./scripts/extract-docx-text.ps1).
+   - Example: `pwsh -File ./.github/skills/cv-docx-sync/scripts/extract-docx-text.ps1 -DocxPath "<docx path>"`
 3. Read the full Markdown CV.
 4. Limit analysis to requested scope (or full if omitted).
 5. Compare and identify factual deltas:
