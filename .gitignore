@@ -1,6 +1,7 @@
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # Editor directories and files
 .vscode/
@@ -8,14 +9,34 @@ Thumbs.db
 *.swp
 *.swo
 *~
+.history/
 
 # Logs
 *.log
+logs/
 
 # Temporary files
 *.tmp
 *.temp
+tmp/
+temp/
+.tmp_docx_extract/
 
 # Personal notes (optional)
 notes.md
 TODO.md
+
+# Archives
+*.zip
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
