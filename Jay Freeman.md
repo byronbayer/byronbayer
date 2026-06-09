@@ -4,6 +4,7 @@
 📞 **Phone:** 07968 050 136  
 ✉️ **Email:** jobs@xandu.co.uk  
 🔗 **Profiles:** LinkedIn | GitHub | Blog  
+📄 **DOCX CV:** [Jay Freeman CV.docx](Jay%20Freeman%20CV.docx)  
 
 ---
 
