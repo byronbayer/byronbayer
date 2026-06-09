@@ -1,15 +1,16 @@
 ---
 name: Sync CV From DOCX
 description: Sync a Markdown CV from a DOCX source using the cv-docx-sync skill with safe defaults.
-argument-hint: DOCX path -> Markdown path (optional: selective|strict)
+argument-hint: DOCX path -> Markdown path (optional: selective|strict) (optional: contact-only|skills-only|career-only|full)
 agent: agent
 ---
 
 Use the [cv-docx-sync skill](../skills/cv-docx-sync/SKILL.md) to synchronize a Markdown CV from a DOCX source.
 
 Inputs:
-- Parse arguments in this format: `<docx path> -> <markdown path> [mode]`
+- Parse arguments in this format: `<docx path> -> <markdown path> [mode] [scope]`
 - If mode is omitted, default to `selective`.
+- If scope is omitted, default to `full`.
 
 Execution rules:
 1. Validate that both files exist.
@@ -22,6 +23,10 @@ Execution rules:
 5. If DOCX extraction leaves ambiguous values:
    - Keep current Markdown value unless DOCX is explicit.
    - List each ambiguity in the final summary.
+6. Token-saving rules:
+   - Do not quote unchanged content.
+   - Do not print raw extracted DOCX text unless the user asks.
+   - Keep final response to a maximum of 8 bullets.
 
 Output format:
 - `Mode used`

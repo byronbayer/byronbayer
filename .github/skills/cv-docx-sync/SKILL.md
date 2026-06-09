@@ -3,7 +3,7 @@ name: cv-docx-sync
 description: 'Read a DOCX CV and update a Markdown CV with accurate details. Use for CV maintenance, resume synchronization, profile updates, and keeping .md files aligned to .docx source content.'
 argument-hint: 'Provide DOCX path and Markdown path (for example: Jay Freeman CV.docx -> Jay Freeman.md).'
 user-invocable: true
-disable-model-invocation: false
+disable-model-invocation: true
 ---
 
 # CV DOCX to Markdown Sync
@@ -21,6 +21,11 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
 - Optional sync mode:
   - strict: markdown must mirror docx content closely
   - selective: only update factual deltas and keep markdown enhancements
+- Optional scope (default: full):
+   - contact-only
+   - skills-only
+   - career-only
+   - full
 
 ## Procedure
 1. Validate inputs and confirm both files exist.
@@ -28,21 +33,23 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
    - Treat DOCX as a zip package.
    - Read `word/document.xml` and convert to rough plain text for comparison.
 3. Read the full Markdown CV.
-4. Compare and identify factual deltas:
+4. Limit analysis to requested scope (or full if omitted).
+5. Compare and identify factual deltas:
    - Contact details (email, phone, location, profile links)
    - Date ranges and role titles
    - Skills and technology lists
    - Certifications and career entries
-5. Decide edit strategy:
+6. Decide edit strategy:
    - If markdown has richer structure, prefer selective updates.
    - If markdown is stale across many sections, use strict synchronization.
-6. Apply minimal edits to Markdown (small patches, no broad reformatting).
-7. Validate output:
+7. Apply minimal edits to Markdown (small patches, no broad reformatting).
+8. Validate output:
    - Ensure changed facts now match DOCX.
    - Check Markdown readability and section integrity.
-8. Report:
-   - List what changed and where.
-   - Call out ambiguities that could not be resolved from DOCX extraction.
+9. Report compactly:
+   - Max 8 bullets total.
+   - Only changed fields/sections.
+   - Call out ambiguities only.
 
 ## Decision Points
 - Source precedence:
@@ -69,3 +76,4 @@ Synchronize a Markdown CV with a DOCX source while preserving existing Markdown 
 - Markdown file updated with factual DOCX deltas.
 - Changes are minimal and reviewable.
 - Any ambiguous fields are explicitly listed for follow-up.
+- Response excludes unchanged content.
