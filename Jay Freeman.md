@@ -2,7 +2,8 @@
 
 📍 **Location:** Barsby, Leicester, UK  
 📞 **Phone:** 07968 050 136  
-✉️ **Email:** contract@jayfreeman.co.uk  
+✉️ **Email:** jobs@xandu.co.uk  
+🔗 **Profiles:** LinkedIn | GitHub | Blog  
 
 ---
 
@@ -32,13 +33,13 @@ I am a highly experienced and passionate team leader, software engineer, applica
 | Category | Technologies |
 |:---------|:-------------|
 | ☁️ **Cloud Architecture** | Azure Landing Zones (ALZ), Azure Verified Modules (AVM), Well-Architected Framework (WAF), PaaS/IaaS/SaaS, Medallion Architecture |
-| 🌐 **Azure Services** | Virtual WAN, Front Door, Firewall, Bastion, APIM, Functions, Logic Apps, Event Hubs, Service Bus, Key Vault, Entra ID, Azure Policies, ExpressRoute |
+| 🌐 **Azure Services** | Virtual WAN, Front Door, Traffic Manager, Firewall, NSG, Bastion, VPN Gateway, APIM, Functions, Logic Apps, Event Hubs, Service Bus, Stream Analytics, Log Analytics, Key Vault, Entra ID, Azure Policies, ExpressRoute, App Service Environment (ASE), Service Fabric, DNS Forwarding Rulesets |
 | 📊 **Data Platform** | Databricks (Spark/Scala), Unity Catalog, Delta Lake, Data Factory, Synapse, Data Lakes |
-| 🗄️ **Databases** | SQL Server, Cosmos DB, MongoDB, Redis, Couchbase, Oracle, MySQL |
+| 🗄️ **Databases** | SQL Server, Cosmos DB, MongoDB, Redis, Couchbase, Oracle, MySQL, Raven DB |
 | 🔐 **DevSecOps & IaC** | Terraform, Bicep, ARM Templates, Azure DevOps (YAML), Sentinel, Defender for Cloud, RBAC, PCI DSS |
-| 💻 **Development** | C#, .NET Core/.NET Framework, ASP.NET, MVC, Web API, REST, TypeScript, React, Angular, Node.js |
+| 💻 **Development** | C#, .NET Core/.NET Framework, ASP.NET, MVC, Web API, WCF, SOA, REST, TypeScript, React, Angular, Node.js, JavaScript, jQuery, HTML5, CSS3, Bootstrap |
 | 🔧 **Tools & Pipelines** | Azure DevOps, Git, TeamCity, Octopus Deploy, PowerShell, CI/CD |
-| 📋 **Methodologies** | Agile (Scrum/Kanban), TDD, SOLID Principles, ISO 27001 |
+| 📋 **Methodologies** | Agile (Scrum/Kanban), TDD, SOLID Principles, ISO 27001, Jira, Target Process, Visio |
 
 ---
 
