@@ -34,10 +34,10 @@ I am a highly experienced and passionate team leader, software engineer, applica
 | Category | Technologies |
 |:---------|:-------------|
 | ☁️ **Cloud Architecture** | Azure Landing Zones (ALZ), Azure Verified Modules (AVM), Well-Architected Framework (WAF), PaaS/IaaS/SaaS, Medallion Architecture |
-| 🌐 **Azure Services** | Virtual WAN, Front Door, Traffic Manager, Firewall, NSG, Bastion, VPN Gateway, APIM, Functions, Logic Apps, Event Hubs, Service Bus, Stream Analytics, Log Analytics, Key Vault, Entra ID, Azure Policies, ExpressRoute, App Service Environment (ASE), Service Fabric, DNS Forwarding Rulesets |
+| 🌐 **Azure Services** | Virtual WAN, Front Door, Traffic Manager, Firewall, NSG, Bastion, VPN Gateway, APIM, Functions, Logic Apps, Event Hubs, Service Bus, Stream Analytics, Log Analytics, Key Vault, Entra ID, Azure Policies, ExpressRoute, App Service Environment (ASE), Service Fabric, DNS Forwarding Rulesets, DNS Private Resolver, Managed DevOps Pools (MDOP), Container Apps (ACA), Container Registry (ACR) |
 | 📊 **Data Platform** | Databricks (Spark/Scala), Unity Catalog, Delta Lake, Data Factory, Synapse, Data Lakes |
 | 🗄️ **Databases** | SQL Server, Cosmos DB, MongoDB, Redis, Couchbase, Oracle, MySQL, Raven DB |
-| 🔐 **DevSecOps & IaC** | Terraform, Bicep, ARM Templates, Azure DevOps (YAML), Sentinel, Defender for Cloud, RBAC, PCI DSS |
+| 🔐 **DevSecOps & IaC** | Terraform, Bicep, ARM Templates, Azure DevOps (YAML), Sentinel, Defender for Cloud, RBAC, PCI DSS, Privileged Identity Management (PIM) |
 | 💻 **Development** | C#, .NET Core/.NET Framework, ASP.NET, MVC, Web API, WCF, SOA, REST, TypeScript, React, Angular, Node.js, JavaScript, jQuery, HTML5, CSS3, Bootstrap |
 | 🔧 **Tools & Pipelines** | Azure DevOps, Git, TeamCity, Octopus Deploy, PowerShell, CI/CD |
 | 📋 **Methodologies** | Agile (Scrum/Kanban), TDD, SOLID Principles, ISO 27001, Jira, Target Process, Visio |
@@ -79,8 +79,15 @@ I am a highly experienced and passionate team leader, software engineer, applica
 ### <a href="https://www.colxgroup.com/" target="_blank" rel="noopener noreferrer">Colx</a> | DevSecOps Cloud Consultant
 **Dates:** May 2026 – Present
 
-- Cloud migration from on prem to Azure.
-- Setting up landing zones using Azure Verified Modules.
+**Main Disciplines:** DevSecOps, Architect, Azure, Terraform, Azure Verified Modules (AVM), Azure DevOps (YAML), PowerShell, Azure Policy, PIM, Managed DevOps Pools
+
+**Key Achievements:**
+
+- Architected and delivered a greenfield **Azure Landing Zone** for ColX Group from first principles, using Microsoft's **Azure Verified Modules (AVM)** pattern across 4 platform subscriptions and 5 Terraform stacks (bootstrap, connectivity, management, platform, workload), merging 90+ pull requests across 3 repositories.
+- Built and published a shared library of **14 reusable Terraform modules** (hub networking, DNS Private Resolver, Key Vault, VPN Gateway, Managed DevOps Pools, Dev Center, Container Registry and more) plus a standalone Azure DevOps pipeline-templates repository, enabling teams to self-serve infrastructure consistently.
+- Designed and delivered end-to-end **Azure Privileged Identity Management (PIM)** governance — role tiers, eligibility, approval-gated activation and audit validation, backed by an operational runbook — establishing least-privilege access across the platform.
+- Delivered secure hub-and-spoke connectivity with **Azure DNS Private Resolver** and **site-to-site VPN Gateway** to on-premises, and selected **Azure Container Apps** over AKS as the platform's application hosting model.
+- Replaced Microsoft-hosted build agents with a self-hosted **Managed DevOps Pool**, tuning images and working-hours standby schedules to control compute spend.
 
 ---
 
@@ -328,5 +335,5 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ---
 
-*Last updated: Jan 2026*
+*Last updated: Aug 2026*
 
