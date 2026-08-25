@@ -62,34 +62,6 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 ## 💼 Career History
 
-### <a href="https://www.allica.bank/" target="_blank" rel="noopener noreferrer">Allica Bank</a> | DevSecOps Cloud Consultant
-**Dates:** May 2026 – Present
-
-**Main Disciplines:** DevSecOps, Azure Policy, Governance, Azure Verified Modules (AVM), Azure Landing Zones (ALZ), ISO 27001, AI Governance, Claude, Microsoft Copilot, Cost Management
-
-**Key Achievements:**
-
-- Updated and hardened Azure Policy definitions and assignments to strengthen the bank's governance and security posture.
-- Implemented the Azure Verified Modules (AVM) Azure Landing Zone (ALZ) pattern for management group creation, establishing a standardised hierarchy for the estate.
-- Authored default policy sets aligning the Azure environment with ISO 27001 and other regulatory/security standards.
-- Advised on and helped establish AI best practices and guardrails for the safe adoption of Claude and Microsoft Copilot across the organisation.
-- Set up Azure monitoring and reporting to track AI agent usage and associated cost.
-
----
-
-### <a href="https://www.barnett-waddingham.co.uk/" target="_blank" rel="noopener noreferrer">Barnett Waddingham</a> | DevSecOps Cloud Consultant
-**Dates:** May 2026 – Present
-
-**Main Disciplines:** DevSecOps, Terraform, Azure, B2C, SIPP & Investment Platforms, Security, Standards & Best Practices
-
-**Key Achievements:**
-
-- Delivering a SIPP and investment product to production.
-- Working on a B2C platform, carrying out general Terraform work to stand up and secure a production environment.
-- Supporting the development teams with standards, patterns and best practices.
-
----
-
 ### <a href="https://www.colxgroup.com/" target="_blank" rel="noopener noreferrer">Colx</a> | DevSecOps Cloud Consultant
 **Dates:** May 2026 – Present
 
@@ -102,6 +74,34 @@ I am a highly experienced and passionate team leader, software engineer, applica
 - Designed and delivered end-to-end **Azure Privileged Identity Management (PIM)** governance — role tiers, eligibility, approval-gated activation and audit validation, backed by an operational runbook — establishing least-privilege access across the platform.
 - Delivered secure hub-and-spoke connectivity with **Azure DNS Private Resolver** and **site-to-site VPN Gateway** to on-premises, and selected **Azure Container Apps** over AKS as the platform's application hosting model.
 - Replaced Microsoft-hosted build agents with a self-hosted **Managed DevOps Pool**, tuning images and working-hours standby schedules to control compute spend.
+
+---
+
+### <a href="https://www.barnett-waddingham.co.uk/" target="_blank" rel="noopener noreferrer">Barnett Waddingham</a> | DevSecOps Cloud Consultant
+**Dates:** May 2026 – August 2026
+
+**Main Disciplines:** DevSecOps, Terraform, Azure, B2C, SIPP & Investment Platforms, Security, Standards & Best Practices
+
+**Key Achievements:**
+
+- Delivering a SIPP and investment product to production.
+- Working on a B2C platform, carrying out general Terraform work to stand up and secure a production environment.
+- Supporting the development teams with standards, patterns and best practices.
+
+---
+
+### <a href="https://www.allica.bank/" target="_blank" rel="noopener noreferrer">Allica Bank</a> | DevSecOps Cloud Consultant
+**Dates:** May 2026 – August 2026
+
+**Main Disciplines:** DevSecOps, Azure Policy, Governance, Azure Verified Modules (AVM), Azure Landing Zones (ALZ), ISO 27001, AI Governance, Claude, Microsoft Copilot, Cost Management
+
+**Key Achievements:**
+
+- Updated and hardened Azure Policy definitions and assignments to strengthen the bank's governance and security posture.
+- Implemented the Azure Verified Modules (AVM) Azure Landing Zone (ALZ) pattern for management group creation, establishing a standardised hierarchy for the estate.
+- Authored default policy sets aligning the Azure environment with ISO 27001 and other regulatory/security standards.
+- Advised on and helped establish AI best practices and guardrails for the safe adoption of Claude and Microsoft Copilot across the organisation.
+- Set up Azure monitoring and reporting to track AI agent usage and associated cost.
 
 ---
 
