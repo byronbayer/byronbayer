@@ -41,17 +41,17 @@ the whole paragraph, not just the matched substring.
 1. Confirm the target DOCX exists and is closed in Word (COM automation will
    conflict with an already-open file — see the shared reference).
 2. Write the edits as an operations JSON file (do not invent one inline in
-   PowerShell — keep it as a reviewable artifact):
+   PowerShell — keep it as a reviewable artifact before running anything):
    ```json
    [
      { "find": "<exact existing paragraph text>", "action": "InsertAfter", "text": ["new bullet 1", "new bullet 2"] },
      { "find": "<exact existing paragraph text>", "action": "Replace", "text": "replacement bullet text" }
    ]
    ```
-   Save it under [scripts/operations/](../../../scripts/operations/) (the repo's
-   common `scripts/` folder, not this skill directory) with a descriptive filename
-   (e.g. `add-ai-infra-bullets.json`) so it's a durable record of the change, not a
-   throwaway scratch file.
+   Save it to the scratchpad directory, not the repo — it's a means to run the
+   script, not something to keep. The DOCX diff and the matching Markdown commit
+   are the durable record of the change; delete the operations file once the edit
+   is verified (step 7).
 3. Back up the real DOCX (a `.bak` copy) before running anything against it.
 4. Test first: copy the DOCX to a disposable file and run
    [cv-md-to-docx.ps1](../../../scripts/cv-md-to-docx.ps1) against the copy:
@@ -62,8 +62,9 @@ the whole paragraph, not just the matched substring.
    landed correctly, and spot-check bullet formatting survived (see the shared
    reference's verification workflow).
 6. Only once verified, run the same command against the real DOCX.
-7. Re-verify the real file the same way, then delete the disposable test copy and
-   any scratch extraction output. Keep the `.bak` until the change is confirmed good.
+7. Re-verify the real file the same way, then delete the disposable test copy, the
+   operations JSON, and any scratch extraction output. Keep the `.bak` until the
+   change is confirmed good.
 8. If a Markdown CV exists alongside the DOCX, either make the matching edit there
    directly or run the [cv-docx-to-md](../cv-docx-to-md/SKILL.md) skill afterward so
    both files stay in sync.
@@ -82,6 +83,5 @@ the whole paragraph, not just the matched substring.
 
 ## Completion Criteria
 - The real DOCX contains exactly the intended text changes, with formatting matched.
-- The operations JSON used is saved under the repo's `scripts/operations/` for future reference.
-- Test copies and scratch files are cleaned up; the `.bak` backup is left in place
-  until the user confirms the change.
+- Test copies, the operations JSON, and any scratch files are cleaned up; the `.bak`
+  backup is left in place until the user confirms the change.
