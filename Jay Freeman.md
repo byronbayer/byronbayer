@@ -70,10 +70,12 @@ I am a highly experienced and passionate team leader, software engineer, applica
 **Key Achievements:**
 
 - Architected and delivered a greenfield **Azure Landing Zone** for ColX Group from first principles, using Microsoft's **Azure Verified Modules (AVM)** pattern across 4 platform subscriptions and 5 Terraform stacks (bootstrap, connectivity, management, platform, workload), merging 90+ pull requests across 3 repositories.
-- Built and published a shared library of **14 reusable Terraform modules** (hub networking, DNS Private Resolver, Key Vault, VPN Gateway, Managed DevOps Pools, Dev Center, Container Registry and more) plus a standalone Azure DevOps pipeline-templates repository, enabling teams to self-serve infrastructure consistently.
+- Built and published a shared library of re-useable Terraform modules plus a standalone Azure DevOps pipeline-templates repository, enabling teams to self-serve infrastructure consistently.
 - Designed and delivered end-to-end **Azure Privileged Identity Management (PIM)** governance — role tiers, eligibility, approval-gated activation and audit validation, backed by an operational runbook — establishing least-privilege access across the platform.
 - Delivered secure hub-and-spoke connectivity with **Azure DNS Private Resolver** and **site-to-site VPN Gateway** to on-premises, and selected **Azure Container Apps** over AKS as the platform's application hosting model.
 - Replaced Microsoft-hosted build agents with a self-hosted **Managed DevOps Pool**, tuning images and working-hours standby schedules to control compute spend.
+- Designed a governed **Azure AI Foundry** hub architecture, isolating multi-tenant environments with per-team projects and role-based access control, enabling teams to safely adopt frontier models including **Claude 5 Sonnet** and **Fable 5** without compromising tenant isolation.
+- Implemented a standard **OTLP telemetry pipeline** using the **OpenTelemetry Collector** to stream model-level metrics (input/output tokens, latency, error rates) from Claude 5 Sonnet and Fable 5 workloads into **Application Insights** and **Log Analytics**, giving engineering teams real-time observability into AI service health.
 
 ---
 
@@ -101,7 +103,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 - Implemented the Azure Verified Modules (AVM) Azure Landing Zone (ALZ) pattern for management group creation, establishing a standardised hierarchy for the estate.
 - Authored default policy sets aligning the Azure environment with ISO 27001 and other regulatory/security standards.
 - Advised on and helped establish AI best practices and guardrails for the safe adoption of Claude and Microsoft Copilot across the organisation.
-- Set up Azure monitoring and reporting to track AI agent usage and associated cost.
+- Connected **Azure Monitor** cost and usage data to **Grafana** to build unified dashboards tracking model-mix drift and per-team AI spend, giving finance and engineering stakeholders shared visibility into API cost drivers and control over budget overruns.
 
 ---
 
