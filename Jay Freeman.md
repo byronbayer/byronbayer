@@ -69,7 +69,7 @@ I am a highly experienced and passionate team leader, software engineer, applica
 
 **Key Achievements:**
 
-- Architected and delivered a greenfield **Azure Landing Zone** for ColX Group from first principles, using Microsoft's **Azure Verified Modules (AVM)** pattern across 4 platform subscriptions and 5 Terraform stacks (bootstrap, connectivity, management, platform, workload), merging 90+ pull requests across 3 repositories.
+- Architected and delivered a greenfield **Azure Landing Zone** for ColX Group from first principles, using Microsoft's **Azure Verified Modules (AVM)** pattern across 4 platform subscriptions and 5 Terraform stacks (bootstrap, connectivity, management, platform, workload).
 - Built and published a shared library of re-useable Terraform modules plus a standalone Azure DevOps pipeline-templates repository, enabling teams to self-serve infrastructure consistently.
 - Designed and delivered end-to-end **Azure Privileged Identity Management (PIM)** governance — role tiers, eligibility, approval-gated activation and audit validation, backed by an operational runbook — establishing least-privilege access across the platform.
 - Delivered secure hub-and-spoke connectivity with **Azure DNS Private Resolver** and **site-to-site VPN Gateway** to on-premises, and selected **Azure Container Apps** over AKS as the platform's application hosting model.
