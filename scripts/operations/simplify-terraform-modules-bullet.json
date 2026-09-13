@@ -1,0 +1,7 @@
+[
+  {
+    "find": "Built and published a shared library of 14 reusable Terraform modules",
+    "action": "Replace",
+    "text": "Built and published a shared library of re-useable Terraform modules plus a standalone Azure DevOps pipeline-templates repository, enabling teams to self-serve infrastructure consistently."
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "find": "Replaced Microsoft-hosted build agents with a self-hosted Managed DevOps Pool, tuning images and working-hours standby schedules to control compute spend.",
+    "action": "InsertAfter",
+    "text": [
+      "Designed a governed Azure AI Foundry hub architecture, isolating multi-tenant environments with per-team projects and role-based access control, enabling teams to safely adopt frontier models including Claude 5 Sonnet and Fable 5 without compromising tenant isolation.",
+      "Implemented a standard OTLP telemetry pipeline using the OpenTelemetry Collector to stream model-level metrics (input/output tokens, latency, error rates) from Claude 5 Sonnet and Fable 5 workloads into Application Insights and Log Analytics, giving engineering teams real-time observability into AI service health."
+    ]
+  },
+  {
+    "find": "Set up Azure monitoring and reporting to track AI agent usage and cost.",
+    "action": "Replace",
+    "text": "Connected Azure Monitor cost and usage data to Grafana to build unified dashboards tracking model-mix drift and per-team AI spend, giving finance and engineering stakeholders shared visibility into API cost drivers and control over budget overruns."
+  }
+]
